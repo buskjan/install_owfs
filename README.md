@@ -29,7 +29,7 @@ Create the folder:
 sudo mkdir /mnt/1wire
 ```
 
-Save the owfs.config file and reboot. Now ofws should be up and runnning. To veryfi this you can use owfs shell commands:  
+Save the owfs.config file and reboot. Now ofws should be up and runnning. To verify this you can use owfs shell commands:  
 Use owdir to see your connected 1-wire devices.
 ```
 owdir
